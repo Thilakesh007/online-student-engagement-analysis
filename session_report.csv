@@ -1,0 +1,86 @@
+Date,Presence Time (s),Engagement Time (s),Engagement %,Attention %,Attendance,Final Grade
+Thilak,2026-02-03 20:48:00,23,15,64,66,Present ✅,B 🥈 (Good)
+Thilak,2026-02-04 20:06:45,38,20,54,54,Present ✅,C 🥉 (Average)
+Albert,2026-02-04 20:21:07,28,21,72,74,Present ✅,B 🥈 (Good)
+ajay,2026-02-04 20:23:06,77,28,36,37,Present ✅,D ❌ (Poor)
+hari,2026-02-04 20:45:46,6,6,91,92,Absent ❌,A 🏆 (Excellent)
+naveen,2026-02-04 21:06:22,25,21,85,87,Present ✅,A 🏆 (Excellent)
+naveen,2026-02-04 21:42:34,21,18,85,88,Present ✅,A 🏆 (Excellent)
+Ibrahim,2026-02-04 21:43:40,22,18,85,88,Present ✅,A 🏆 (Excellent)
+Ibrahim,2026-02-04 21:43:56,22,18,85,88,Present ✅,A 🏆 (Excellent)
+ALI,2026-02-04 22:13:08,33,25,77,79,Present ✅,B 🥈 (Good)
+Albert,2026-02-05 13:35:30,46,36,79,81,Present ✅,A 🏆 (Excellent)
+Thilak,2026-02-05 14:52:22,22,15,68,70,Present ✅,B 🥈 (Good)
+Thilak,2026-02-05 14:52:22,22,15,68,70,Present ✅,B 🥈 (Good)
+nihar,2026-02-05 14:55:14,35,0,0,0,Present ✅,D ❌ (Poor)
+Thilak,2026-02-05 18:31:33,36,30,83,83,Present ✅,A 🏆 (Excellent)
+Thilak,2026-02-05 18:52:40,37,29,78,82,Present ✅,A 🏆 (Excellent)
+Albert,2026-02-05 20:11:08,0,0,0,0,Absent ❌,D ❌ (Poor)
+Albert,2026-02-05 20:11:31,10,8,78,87,Absent ❌,A 🏆 (Excellent)
+Albert,2026-02-05 20:18:42,27,22,79,83,Present ✅,A 🏆 (Excellent)
+Albert,2026-02-05 20:20:48,27,22,79,83,Present ✅,A 🏆 (Excellent)
+Ibrahim,2026-02-05 20:22:57,10,7,75,79,Absent ❌,B 🥈 (Good)
+ajay,2026-02-05 20:45:47,21,17,78,79,Present ✅,B 🥈 (Good)
+Albert,2026-02-05 20:57:04,10,10,99,99,Absent ❌,A 🏆 (Excellent)
+Albert,2026-02-05 21:07:14,33,32,99,99,Present ✅,A 🏆 (Excellent)
+Albert,2026-02-05 21:10:38,9,9,96,96,Absent ❌,A 🏆 (Excellent)
+Thilak,2026-02-05 21:12:33,4,4,96,96,Absent ❌,A 🏆 (Excellent)
+parmesh,2026-02-06 09:15:51,70,52,74,75,Present ✅,B 🥈 (Good)
+Albert,2026-02-06 14:29:16,8,8,97,97,Absent ❌,A 🏆 (Excellent)
+Ajay ,2026-02-06 19:31:32,0,0,0,0,Absent ❌,D ❌ (Poor)
+Albert,2026-02-06 19:50:15,11,11,95,99,Absent ❌,A 🏆 (Excellent)
+Thilak,2026-02-06 20:16:36,3,3,97,100,Absent ❌,A 🏆 (Excellent)
+Abdul,2026-02-06 20:18:44,6,5,94,95,Absent ❌,A 🏆 (Excellent)
+Abdul,2026-02-06 20:20:02,6,5,94,95,Absent ❌,A 🏆 (Excellent)
+Abdul,2026-02-06 20:20:49,25,24,93,94,Present ✅,A 🏆 (Excellent)
+sanjeev,2026-02-06 20:27:27,0,0,46,47,Present ✅,C 🥉 (Average)
+Salman,2026-02-06 20:33:16,0,0,46,47,Absent ❌,C 🥉 (Average)
+hari,2026-02-06 20:57:08,30,29,97,99,Present ✅,A 🏆 (Excellent)
+Nilaa,2026-02-06 21:44:58,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:01,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:11,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:12,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:13,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:16,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:22,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:23,0,0,0,0,Absent ❌,D ❌ (Poor)
+Nilaa,2026-02-06 21:45:24,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:12:51,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:12:58,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:12:59,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:13:00,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:13:00,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:13:01,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:13:02,0,0,0,0,Absent ❌,D ❌ (Poor)
+Ibrahim,2026-02-06 22:13:03,0,0,0,0,Absent ❌,D ❌ (Poor)
+Thilak,2026-02-06 23:14:01,201,191,95,97,Present ✅,A 🏆 (Excellent)
+Thilak,2026-02-06 23:14:05,245,234,95,97,Present ✅,A 🏆 (Excellent)
+Thilak,2026-02-06 23:14:18,374,363,97,98,Present ✅,A 🏆 (Excellent)
+tamil,2026-02-06 23:27:10,6,5,77,77,Absent ❌,B 🥈 (Good)
+abdul,2026-02-06 23:38:24,0,0,0,0,Absent ❌,D ❌ (Poor)
+ibrahim,2026-02-06 23:50:26,0,0,0,0,Absent ❌,D ❌ (Poor)
+thala,2026-02-06 23:58:54,0,0,0,0,Absent ❌,D ❌ (Poor)
+ali,2026-02-07 00:28:53,47,37,78,82,Present ✅,A 🏆 (Excellent)
+gokul prasath,2026-02-07 09:22:21,37,29,78,78,Present ✅,B 🥈 (Good)
+rajamani,2026-02-07 09:26:25,9,8,88,88,Absent ❌,A 🏆 (Excellent)
+thilakesh,2026-02-07 09:35:48,13,5,45,45,Absent ❌,C 🥉 (Average)
+thilakesh,2026-02-07 09:37:16,13,5,45,45,Absent ❌,C 🥉 (Average)
+thilakesh,2026-02-07 09:41:35,13,5,45,45,Absent ❌,C 🥉 (Average)
+,2026-02-07 11:43:35,0,0,0,0,Absent ❌,D ❌ (Poor)
+,2026-02-07 11:44:07,0,0,0,0,Absent ❌,D ❌ (Poor)
+thala,2026-02-07 12:09:25,37,30,81,81,Present ✅,A 🏆
+thala,2026-02-07 12:09:35,37,30,81,81,Present ✅,A 🏆
+ali,2026-02-07 12:17:40,140,88,62,62,Present ✅,B 🥈
+yathesh,2026-02-07 12:22:35,0,0,0,0,Absent ❌,D ❌
+Albert,2026-02-07 12:26:39,113,56,49,49,Present ✅,C 🥉
+yathu,2026-02-07 13:31:24,45,36,80,82,Present ✅,A 🏆
+nihar,2026-02-07 18:48:41,89,68,76,84,Present ✅,A 🏆
+asraf,2026-02-08 17:36:09,32,29,90,90,Present ✅,A 🏆
+Thilak,2026-02-08 18:17:48,13,10,76,76,Absent ❌,B 🥈
+aslam,2026-02-08 18:25:14,35,35,100,100,Present ✅,A 🏆
+Thilak,2026-02-08 19:20:57,15,14,93,93,Absent ❌,A 🏆
+Sanju,2026-02-08 19:38:48,24,22,91,95,Present ✅,A 🏆
+Abdul,2026-02-08 19:39:23,171,38,22,22,Present ✅,D ❌
+Abdul,2026-02-08 19:39:30,171,38,22,22,Present ✅,D ❌
+Ibrahim,2026-02-08 19:39:36,347,259,74,76,Present ✅,B 🥈
+tamil,2026-02-09 19:07:41,12,11,91,100,Absent ❌,A 🏆
